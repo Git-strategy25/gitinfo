@@ -4,8 +4,11 @@ this is the second file to edit
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 4e1dd66 (updated sample.sh)
+=======
+>>>>>>> parent of 8a5fa8a (updated sample.sh)
 this is the 3rd file to edit
 =======
 this is my third file to edit
@@ -13,7 +16,10 @@ this is my third file to edit
 <<<<<<< HEAD
 =======
 >>>>>>> parent of 3d981ec (updated sample.sh)
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 3d981ec (updated sample.sh)
 =======
 >>>>>>> parent of 4e1dd66 (updated sample.sh)
+=======
+>>>>>>> parent of 8a5fa8a (updated sample.sh)
